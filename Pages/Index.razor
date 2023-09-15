@@ -23,7 +23,7 @@
     {
         try
         {                       
-            _markdownContent = await httpClient.GetStringAsync("https://raw.githubusercontent.com/edsonlcandido/edsonluizcandido/main/curriculo.md");
+            _markdownContent = await httpClient.GetStringAsync("https://raw.githubusercontent.com/edsonlcandido/edsonluizcandido/master/Pages/Index.md");
             _htmlCode = Markdig.Markdown.ToHtml(_markdownContent);
         }
         catch (Exception e) when (e is HttpRequestException || e is TaskCanceledException)

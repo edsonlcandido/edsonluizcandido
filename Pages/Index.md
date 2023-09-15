@@ -136,6 +136,10 @@ Comunicação escrita através de e-mails ou aplicativos de conversação com es
 
 ## Cursos
 
+### Escola Nacional de Administração Publica
+
+BIM - Implantação *(jul/2023)*
+
 ### Faculdade Metropolitana do Estado de São Paulo (FAMEESP)
 
 Programação de Banco de Dados *(mar/2023)*
