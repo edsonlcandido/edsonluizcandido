@@ -6,16 +6,16 @@ EXPOSE 80
 
 FROM mcr.microsoft.com/dotnet/sdk:7.0 AS build
 WORKDIR /src
-COPY ["edsonluizcandidoBlazorServer.csproj", "."]
-RUN dotnet restore "./edsonluizcandidoBlazorServer.csproj"
+COPY ["edsonluizcandido.csproj", "."]
+RUN dotnet restore "./edsonluizcandido.csproj"
 COPY . .
 WORKDIR "/src/."
-RUN dotnet build "edsonluizcandidoBlazorServer.csproj" -c Release -o /app/build
+RUN dotnet build "edsonluizcandido.csproj" -c Release -o /app/build
 
 FROM build AS publish
-RUN dotnet publish "edsonluizcandidoBlazorServer.csproj" -c Release -o /app/publish /p:UseAppHost=false
+RUN dotnet publish "edsonluizcandido.csproj" -c Release -o /app/publish /p:UseAppHost=false
 
 FROM base AS final
 WORKDIR /app
 COPY --from=publish /app/publish .
-ENTRYPOINT ["dotnet", "edsonluizcandidoBlazorServer.dll"]
+ENTRYPOINT ["dotnet", "edsonluizcandido.dll"]
