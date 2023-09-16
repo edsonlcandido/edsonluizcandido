@@ -1,4 +1,4 @@
-# Edson Luiz Candido ama a gatinha
+# Edson Luiz Candido
 
 Vila Nambi, Jundiaí - SP
 
