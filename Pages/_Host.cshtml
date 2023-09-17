@@ -28,6 +28,17 @@
         <a class="dismiss">🗙</a>
     </div>
 
-    <script src="_framework/blazor.server.js"></script>
+    <script src="_framework/blazor.server.js" autostart="false"></script>
+    <script>
+        Blazor.start({
+            configureSignalR: function (builder) {
+                let c = builder.build();
+                c.serverTimeoutInMilliseconds = 60000;
+                builder.build = () => {
+                    return c;
+                };
+            }
+        });
+    </script>
 </body>
 </html>
