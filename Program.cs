@@ -8,8 +8,8 @@ builder.Services.AddServerSideBlazor();
 builder.Services.AddHttpClient();
 builder.Services.AddServerSideBlazor()
     .AddHubOptions(o => {
-        o.ClientTimeoutInterval = TimeSpan.FromSeconds(30);
-        o.HandshakeTimeout = TimeSpan.FromSeconds(30);
+        o.ClientTimeoutInterval = TimeSpan.FromMinutes(30);
+        o.HandshakeTimeout = TimeSpan.FromMinutes(30);
         });
 
 var app = builder.Build();

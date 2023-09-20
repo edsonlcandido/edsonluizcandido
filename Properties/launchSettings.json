@@ -18,7 +18,7 @@
     },
     "Docker": {
       "commandName": "Docker",
-      "commandLineArgs": "-t edsonluizcandido:latest\r\n-t edsonluizcandido:0.9.3",
+      "commandLineArgs": "-t edsonluizcandido:latest\r\n-t edsonluizcandido:0.9.4",
       "launchBrowser": true,
       "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}",
       "environmentVariables": {

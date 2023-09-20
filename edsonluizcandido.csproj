@@ -13,11 +13,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Remove="Pages\Index.md" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <EmbeddedResource Include="Pages\Index.md" />
     <EmbeddedResource Include="wwwroot\Index.md" />
   </ItemGroup>
 
