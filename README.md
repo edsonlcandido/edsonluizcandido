@@ -7,7 +7,7 @@ Site escrito em Blazor Server para geração de conteudo dinâmico, a partir da atu
 ## para devs
 
 	- utilizado a biblioteca Markdig para converter markdown em html
-	- BlazorSerer, programado em C#
+	- ASP.NET MVC programado em C#
 	- docker para subir o site em um container e rodar em servidor linux
 
 ## proximos passos

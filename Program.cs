@@ -1,26 +1,32 @@
-using Microsoft.AspNetCore.Components;
-using Microsoft.AspNetCore.Components.Web;
-using Microsoft.AspNetCore.WebSockets;
+namespace edsonluizcandido
+{
+    public class Program
+    {
+        public static void Main(string[] args)
+        {
+            var builder = WebApplication.CreateBuilder(args);
 
-var builder = WebApplication.CreateBuilder(args);
-builder.Services.AddRazorPages();
-builder.Services.AddServerSideBlazor();
-builder.Services.AddHttpClient();
-builder.Services.AddServerSideBlazor()
-    .AddHubOptions(o => {
-        o.ClientTimeoutInterval = TimeSpan.FromMinutes(30);
-        o.HandshakeTimeout = TimeSpan.FromMinutes(30);
-        });
+            builder.Services.AddMvc(options =>
+            {
+                options.EnableEndpointRouting = false;
+            });
 
-var app = builder.Build();
+            var app = builder.Build();
+            
+            IHostEnvironment hostEnvironment = app.Services.GetRequiredService<IHostEnvironment>();
 
-app.UseStaticFiles();
+            if (hostEnvironment.IsDevelopment())
+            {
+                app.UseDeveloperExceptionPage();
+            }
 
-app.UseRouting();
+            app.UseStaticFiles();
 
-app.MapBlazorHub();
-app.MapFallbackToPage("/_Host");
+            app.UseMvcWithDefaultRoute();
 
-app.UseWebSockets();
+            //app.MapGet("/", () => "Hello World!");
 
-app.Run();
+            app.Run();
+        }
+    }
+}
