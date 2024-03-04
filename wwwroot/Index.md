@@ -136,6 +136,12 @@ Comunicação escrita através de e-mails ou aplicativos de conversação com es
 
 ## Cursos
 
+### Balta.io
+
+Fundamentosdo SQL Server *(mar/2023)*
+
+Domindando injeção de dependencia *(dez/2023)*
+
 ### Escola Nacional de Administração Publica
 
 BIM - Implantação *(jul/2023)*
