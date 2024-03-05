@@ -138,7 +138,7 @@ Comunicação escrita através de e-mails ou aplicativos de conversação com es
 
 ### Balta.io
 
-Fundamentosdo SQL Server *(mar/2023)*
+Fundamentosdo SQL Server *(mar/2024)*
 
 Domindando injeção de dependencia *(dez/2023)*
 
