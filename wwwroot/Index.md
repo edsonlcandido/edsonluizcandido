@@ -138,6 +138,8 @@ Comunicação escrita através de e-mails ou aplicativos de conversação com es
 
 ### Balta.io
 
+Acesso à dados com .NET, C#, Dapper e SQL Server *(mar/2024)*
+
 Fundamentosdo SQL Server *(mar/2024)*
 
 Domindando injeção de dependencia *(dez/2023)*
