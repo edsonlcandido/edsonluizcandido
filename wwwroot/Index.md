@@ -138,6 +138,8 @@ Comunicação escrita através de e-mails ou aplicativos de conversação com es
 
 ### Balta.io
 
+Fundamentos do Entity Framework *(mar/2024)*
+
 Acesso à dados com .NET, C#, Dapper e SQL Server *(mar/2024)*
 
 Fundamentosdo SQL Server *(mar/2024)*
