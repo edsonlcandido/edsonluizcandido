@@ -142,9 +142,9 @@ Fundamentos do Entity Framework *(mar/2024)*
 
 Acesso à dados com .NET, C#, Dapper e SQL Server *(mar/2024)*
 
-Fundamentosdo SQL Server *(mar/2024)*
+Fundamentos do SQL Server *(mar/2024)*
 
-Domindando injeção de dependencia *(dez/2023)*
+Dominando injeção de dependencia *(dez/2023)*
 
 ### Escola Nacional de Administração Publica
 
