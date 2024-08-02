@@ -32,11 +32,7 @@ Faculdade de Tecnologia de São Paulo (FATEC-SP)
 
 **Programação** - C#.NET, VB.NET, Dapper, Entity, ASP.NET,  Blazor, HTML, CSS, JavaScript, PHP e Wordpress.
 
-**Softwares de Desenho e Projetos Mecânicos** - Autodesk INVENTOR, AutoCAD, SolidWorks, CATIA, SolidEDGE.
-
 **Office** - Avançado em Excel (Macros, interfaces gráficas, VBA), intermediário em Word, PowerPoint, Access.
-
-**FEA** - Conhecimentos básicos.
 
 **Idiomas** - Inglês intermediário (capacidade para participar de chamadas e apresentações, boa leitura e escrita).
 
