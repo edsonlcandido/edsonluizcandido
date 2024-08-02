@@ -97,7 +97,7 @@ Ago/2002 - Ago/2004 | Socorro, São Paulo - SP - Brasil
 - Auxílio em manutenção preventiva e corretiva.
 - Manutenção de sistemas pneumáticos e mecânicos.
 
-### Projetos de Software
+## Projetos de Software
 
 **Cálculo de Distribuição de Cargas Estáticas** - Conversão de uma aplicação console em VB.NET para uma aplicação desktop.
 

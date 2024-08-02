@@ -73,7 +73,7 @@ Set/2016 - atual | Itatiba - SP - Brasil
 - Desenvolvimento de softwares para criação de desenhos com CAD e programação C#.
 - Automação de rotinas utilizando VBA e desenvolvimento de programas proprietários.
   
-### Selco Vedações Dinâmicas LTDA ###
+### Selco Vedações Dinâmicas LTDA
 
 Ago/2014 - Ago/2016 | São Bernardo do Campo - SP - Brasil
 
@@ -86,6 +86,7 @@ Ago/2014 - Ago/2016 | São Bernardo do Campo - SP - Brasil
 ### Howden South América Ventiladores e Compressores
 
 Mai/2008 - Dez/2013 | Itatiba - SP - Brasil
+
 **Projetista**
 
 - Projeto de ventiladores industriais.
