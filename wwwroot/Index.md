@@ -14,7 +14,7 @@ Desenvolvedor fullstack com experiência nas seguintes linguagens C#, PHP, HTML,
 
 ## Experiência profissional
 
-### Desenvolvedor free lance
+### Desenvolvedor freelancer
 
 **Site de casamento**
 - Desenvolvimento usando html, css e javascript.
