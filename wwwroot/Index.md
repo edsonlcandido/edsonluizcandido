@@ -8,11 +8,25 @@ edson.luiz.candido@gmail.com
 
 ## Objetivo
 
-Atuar na área de engenharia, exercendo a função de projetista utilizando minhas experiencias em softwares CAD 2D e 3D, aplicando minha experiencia na área da industria onde atuo desde 2002.
+Atuar na área de engenharia, exercendo a função de projetista utilizando minhas experiencias em softwares CAD 2D e 3D, aplicando minha experiencia na área industrial onde atuo desde 2002.
 
-Capacitado a trabalhar com programação de software, devido ao aprendizado adquirido nos últimos anos em cursos e bootcamps nas linguagens C#, PHP, HTML, CSS e Javascript.
+Desenvolvedor fullstack com experiência nas seguintes linguagens C#, PHP, HTML, CSS, Javascript e Vue.JS. Criação de aplicativos web e aplicações windows desktop.
 
 ## Experiência profissional
+
+### Desenvolvedor free lance
+
+**Site de casamento**
+- Desenvolvimento usando html, css e javascript.
+- Integração com sistema de pagamento.
+- Suporte a upload para fotos no dia do evento.
+- RSVP.
+- (www.edsonegardenia.com)[https://www.edsonegardenia.com/]
+
+**Frontend para planilha financeira do google (em desenvolvimento)**
+- Site usando html, css e javascript.
+- Integração com API Google Sheets.
+- (dev.planilha.ehtudo.app/)[https://dev.planilha.ehtudo.app/]
 
 ### Howden South América ventiladores e compressores
 
@@ -136,7 +150,19 @@ Comunicação escrita através de e-mails ou aplicativos de conversação com es
 
 ## Cursos
 
+### Alura
+
+RAG e agentes de IA *(set/2025)*
+
+Agentes de IA com LangGraph *(ago/2025)*
+
 ### Balta.io
+
+Uma visão geral sobre o ASP.NET Razor Pages *(mar/2025)*
+
+Fundamentos Blazor Web Assembly *(mar/2025)*
+
+Fundamentos Blazor Server *(mar/2025)*
 
 Fundamentos do Entity Framework *(mar/2024)*
 
