@@ -21,12 +21,12 @@ Desenvolvedor fullstack com experiência nas seguintes linguagens C#, PHP, HTML,
 - Integração com sistema de pagamento.
 - Suporte a upload para fotos no dia do evento.
 - RSVP.
-- (www.edsonegardenia.com)[https://www.edsonegardenia.com/]
+- [www.edsonegardenia.com](https://www.edsonegardenia.com/)
 
 **Frontend para planilha financeira do google (em desenvolvimento)**
 - Site usando html, css e javascript.
 - Integração com API Google Sheets.
-- (dev.planilha.ehtudo.app/)[https://dev.planilha.ehtudo.app/]
+- [dev.planilha.ehtudo.app](https://dev.planilha.ehtudo.app/)
 
 ### Howden South América ventiladores e compressores
 
