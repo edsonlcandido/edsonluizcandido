@@ -38,7 +38,7 @@ Desenvolvedor fullstack com experiência nas seguintes linguagens C#, PHP, HTML,
 
 **Atividades:**
 
-- Projetos de layout e dimensional principal de projetos complexos em fase de proposta (FEL1, FEL2 e FEL3);
+- Projetos de layout e dimensional principal de projetos complexos em fase de proposta (FEL2 e FEL3);
 - Elaboração de propostas técnicas e comerciais de ventiladores centrífugos e axiais;
 - Visita para levantamentos dimensionais para substituição de equipamentos;
 - Desenvolvimento de softwares para auxiliar a criação de desenhos utilizando softwares CAD e programação C#, consultando banco de dados e geração de componentes, montagens e desenho de fabricação;
