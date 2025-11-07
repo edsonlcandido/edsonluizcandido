@@ -16,18 +16,20 @@ Desenvolvedor fullstack com experiência nas seguintes linguagens C#, PHP, HTML,
 
 ### Desenvolvedor freelancer
 
+**Frontend para planilha financeira do google**
+- Site usando html, css e javascript(typescript).
+- Integração com API Google Sheets.
+- PWA para compartilhamento de comprovantes e lançamentos automatizados.
+- Uso de IA para categorizar lançamentos automatizados.
+- [planilha.ehtudo.app](https://planilha.ehtudo.app/)
+
+
 **Site de casamento**
 - Desenvolvimento usando html, css e javascript.
 - Integração com sistema de pagamento.
 - Suporte a upload para fotos no dia do evento.
 - RSVP.
 - [www.edsonegardenia.com](https://www.edsonegardenia.com/)
-
-**Frontend para planilha financeira do google**
-- Site usando html, css e javascript(typescript).
-- Integração com API Google Sheets.
-- PWA para compartilhamento de comprovantes e lançamentos automatizados.
-- [planilha.ehtudo.app](https://planilha.ehtudo.app/)
 
 ### Howden South América ventiladores e compressores
 
