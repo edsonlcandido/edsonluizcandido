@@ -15,6 +15,12 @@ Desenvolvedor fullstack com experiência nas seguintes linguagens C#, PHP, HTML,
 ## Experiência profissional
 
 ### Desenvolvedor freelancer
+**Sistema de gerenciamentos de rifa on-line**
+- Site usando html, css e VUE.
+- Integração com gateway de pagamento (CIABRA).
+- Backoffice mobile first, com fluxos otimizados para o gestor da rifa.
+- Geração de pix QRCode(copia e cola) para o dono da rifa receber todo valor.
+- [rifa.ehtudo.app](https://rifa.ehtudo.app/)
 
 **Frontend para planilha financeira do google**
 - Site usando html, css e javascript(typescript).
@@ -22,7 +28,6 @@ Desenvolvedor fullstack com experiência nas seguintes linguagens C#, PHP, HTML,
 - PWA para compartilhamento de comprovantes e lançamentos automatizados.
 - Uso de IA para categorizar lançamentos automatizados.
 - [planilha.ehtudo.app](https://planilha.ehtudo.app/)
-
 
 **Site de casamento**
 - Desenvolvimento usando html, css e javascript.
@@ -154,6 +159,16 @@ Comunicação escrita através de e-mails ou aplicativos de conversação com es
 ## Cursos
 
 ### Alura
+
+Dart: lidando com erros, exceções e null safety *(nov/2025)*
+
+Dart: dominando assincronismo e criando comunicação com APIs *(nov/2025)*
+
+Dart: trabalhando com orientação a objetos *(nov/2025)*
+
+Dart: trabalhando com a sintaxe e configuração de projeto *(nov/2025)*
+
+Git e GitHub: compartilhando e colaborando em projetos *(out/2025)*
 
 RAG e agentes de IA *(set/2025)*
 
