@@ -15,6 +15,12 @@ Desenvolvedor fullstack com experiência nas seguintes linguagens C#, PHP, HTML,
 ## Experiência profissional
 
 ### Desenvolvedor freelancer
+**Sistema para divisão de despesas entre amigos**
+- Sie usando html, css e VUE.
+- Algoritmo para simplificação de transações.
+- [futuro] Compartilhamento e sincronização de grupos entre dispositivos.
+- [passaregua.ehtudo.app](https://passaregua.ehtudo.app/)
+
 **Sistema de gerenciamentos de rifa on-line**
 - Site usando html, css e VUE.
 - Integração com gateway de pagamento (CIABRA).
