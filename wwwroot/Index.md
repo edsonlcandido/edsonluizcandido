@@ -15,8 +15,14 @@ Desenvolvedor fullstack com experiência nas seguintes linguagens C#, PHP, HTML,
 ## Experiência profissional
 
 ### Desenvolvedor freelancer
+**Sistema de reembolso**
+- Site usando html, css e VUE.
+- Integração com IA para OCR mais eficaz.
+- Sistema de notificações por email.
+- [reembolsa-ai.ehtudo.app](https://reembolsa-ai.ehtudo.app/)
+
 **Sistema para divisão de despesas entre amigos**
-- Sie usando html, css e VUE.
+- Site usando html, css e VUE.
 - Algoritmo para simplificação de transações.
 - Compartilhamento e sincronização de grupos entre dispositivos.
 - [passaregua.ehtudo.app](https://passaregua.ehtudo.app/)
